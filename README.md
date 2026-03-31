@@ -29,9 +29,13 @@ A secure REST API built using Spring Boot that implements JWT (JSON Web Token) b
 ## 📂 Project Structure
 src/
 ├── controller
+
 ├── service
+
 ├── repository
+
 ├── security
+
 └── model
 ---
 
